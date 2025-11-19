@@ -8,8 +8,8 @@ A React app showcasing a student directory with reusable components, nested skil
 
 
 ## Links
-- **GitHub Repository:** https://github.com/yourusername/student-directory
-- **Live Website:** https://your-deployment-url
+- **GitHub Repository:** https://github.com/AhmedMiras/student-directory.git
+- **Live Website:** https://studentdirctmir.netlify.app/
 
 
 ## Run Locally
