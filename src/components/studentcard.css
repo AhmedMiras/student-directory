@@ -1,0 +1,48 @@
+.student-card { 
+    background: var(--card); 
+    padding: 14px; 
+    border-radius: 10px; 
+    box-shadow: 0 2px 6px rgba(16,24,40,0.05) 
+}
+.card-header { 
+    display:flex; 
+    align-items:center; 
+    justify-content:space-between 
+}
+.card-header h3 { 
+    margin: 0; 
+    font-size: 18px 
+}
+.status { 
+    font-size: 12px; 
+    padding: 4px 8px; 
+    border-radius: 999px 
+}
+.status.active { 
+    background: #e6ffed; 
+    color: #047857; 
+    font-weight: 600 }
+.status.inactive { 
+    background: #f3f4f6; 
+    color: #6b7280 
+}
+.meta { 
+    margin: 8px 0 4px; 
+    color: var(--muted) 
+}
+.email { 
+    margin: 0 0 8px; 
+    font-size: 13px 
+}
+.skills { 
+    display:flex; 
+    flex-wrap:wrap; 
+    gap:6px 
+}
+.skill { 
+    font-size: 12px; 
+    padding: 6px 8px; 
+    border-radius: 999px; 
+    background:#eef2ff; 
+    color:#3730a3 
+}
